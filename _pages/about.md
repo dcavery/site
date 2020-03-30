@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-I am a 22 year old Computer Engineering major in his last quarter. I have an intrest in microcontrolers and IoT automation.
+I'm a Computer Engineering major in his last quarter. I'm interested in microcontrollers and IoT automation.
