@@ -78,7 +78,7 @@ research, team leadership, gant chart work distribution.
 ### Raspberry Pi Button Array {#raspberry-pi-button-array .unnumbered}
 
 AV system integration, soldering, Linux file management, Bash scripting,
-modular prototyping, debugging electronic wireing.
+modular prototyping, debugging electronic wiring.
 
 ### Shopping Website and Server {#shopping-website-and-server .unnumbered}
 
@@ -88,4 +88,4 @@ site, access control using cookies.
 ### Hardware Logic Falling Game {#hardware-logic-falling-game .unnumbered}
 
 HSync and VSync pixel coloring, state-machine based logic, Verilog
-progammed FPGA, real-time response to user input.
+programmed FPGA, real-time response to user input.
