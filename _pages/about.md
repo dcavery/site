@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
 I'm a Computer Engineering major in his last quarter. I'm interested in microcontrollers and IoT automation.
