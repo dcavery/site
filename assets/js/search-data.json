@@ -17,8 +17,8 @@
 
   
       ,"page1": {
-          "title": "Resume",
-          "content": "I’m a Computer Engineering major in his last quarter. I’m interested in microcontrollers and IoT automation. .",
+          "title": "",
+          "content": ".",
           "url": "https://dca.ninja/resume/",
           "relUrl": "/resume/",
           "date": ""
